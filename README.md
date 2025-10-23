@@ -55,7 +55,7 @@ java/com/example/HydroTask
 
 │   │   │  
 │   ├── MainActivity.java      
-# Atividade principal com cálculo do IMC
+
 
 
 │   │   │   ├──
